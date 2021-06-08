@@ -1,4 +1,3 @@
-from functools import reduce
 from random import shuffle
 
 QUESTIONS_COUNT = 2
